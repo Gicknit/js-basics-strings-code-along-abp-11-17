@@ -1,1 +1,1 @@
-var currentUser
+var currentUser='undefined';
